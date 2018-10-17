@@ -460,8 +460,8 @@ html {
 }
 
 .landing > h1 {
-  color: #B10DC9;
-  font-family: Skia;
+  color: #EB2C17;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: normal;
 }
 
@@ -521,7 +521,7 @@ pre {
   text-align: left;
 }
 
-// .search > div > a {
+/* // .search > div > a {
 //   width: 30%;
 //   height: 0;
 //   padding-bottom: 19.8%;
@@ -587,7 +587,7 @@ pre {
 // .show-card > div > p {
 //   margin: 0;
 //   font-size: 13px;
-}
+} */
 
 .search > header + div {
   margin-top: 25px;
@@ -609,9 +609,9 @@ header {
 }
 
 header > h1 {
-  font-family: Skia;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: normal;
-  color: #B10DC9;
+  color: #EB2C17;
   margin: 0;
 }
 
